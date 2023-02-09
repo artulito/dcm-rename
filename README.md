@@ -7,9 +7,12 @@
 4. Open Terminal app in the folder
 5. Input the command
   
+  ```
   dcm-rename "path/to/folder"
+  ```
 
   OR, if inside the target folder:
-
+  
+  ``` 
   dcm-rename .
-
+  ```
